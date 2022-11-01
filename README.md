@@ -1,7 +1,7 @@
 # 소전 프로젝트
 <br>
 
-![food_f2](https://user-images.githubusercontent.com/54229237/199266551-f1115254-b727-4ba2-ae4c-8e9278bbe1ce.jpg)
+<img src="https://user-images.githubusercontent.com/54229237/199266551-f1115254-b727-4ba2-ae4c-8e9278bbe1ce.jpg"  width="700" height="370">
 
 ## 주제
 *1.레시피 어플*   
