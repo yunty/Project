@@ -1,6 +1,6 @@
 # 소전 프로젝트
 <br>
-<img width="{80%}" src="{https://user-images.githubusercontent.com/54229237/199266551-f1115254-b727-4ba2-ae4c-8e9278bbe1ce.jpg}"/>
+<img width="{100%}" src="{https://user-images.githubusercontent.com/54229237/199266551-f1115254-b727-4ba2-ae4c-8e9278bbe1ce.jpg}"/>
 
 ## 주제
 *1.레시피 어플*   
